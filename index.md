@@ -7,7 +7,7 @@ pdf: true
 
 <div id="webaddress">
 <i class="fi-mobile" style="margin-left:1em"></i>
-<a href="18223619838" style="margin-left:0.5em">18223619838</a>
+<a href="tel:18223619838" style="margin-left:0.5em">18223619838</a>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="mailto:lpyy15@qq.com" style="margin-left:0.5em">lpyy15@qq.com</a>
 </div>
@@ -39,11 +39,11 @@ _Array 工艺工程师_<br />
 
 ## Projects
 
-### Node.js Headless Chrome 视频爬虫
+### __Node.js Headless Chrome 视频爬虫__
 利用 puppeteer 库控制 Headless 浏览器，根据视频相关通用特征实现<b>自动监听有效请求</b>，获取视频播放链接。
 对网站视频 API 实现了根据监听结果自动生成相关正则及规律用于提取参数，之后不再监听直接获取播放链接的功能。
 
-### Node.js Express Mongoose 实现的 RESTful 论坛 API
+### __Node.js Express Mongoose 实现的 RESTful 论坛 API__
 Express 控制路由部分，通过 Mongoose 子文档实现了 Model 中帖子和评论的对应关系，并采用 express-validator 进行输入数据的验证
 
 
