@@ -6,8 +6,10 @@ pdf: true
 # __袁__ 野
 
 <div id="webaddress">
+<i class="fi-mobile" style="margin-left:1em"></i>
+<a href="18223619838" style="margin-left:0.5em">18223619838</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="lpyy15@qq.com" style="margin-left:0.5em">lpyy15@qq.com</a>
+<a href="mailto:lpyy15@qq.com" style="margin-left:0.5em">lpyy15@qq.com</a>
 </div>
 
 ## Education
