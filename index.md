@@ -14,9 +14,9 @@ pdf: true
 
 ### __太原理工大学__ `2013 - 2017`
 ```
-物理与光电工程学院, 本科学士
+物理与光电工程学院, 本科 学士
 ```
-- 光电信息科学与工程 Opto-Electronics Information Science and Engineering, 本科
+- 光电信息科学与工程 Opto-Electronics Information Science and Engineering
 
 ## Experience
 
