@@ -1,86 +1,42 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: YUAN Ye
 pdf: true
 ---
-# Wode __Ni__
+# __袁__野
+# __YUAN__ Ye
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://www.cs.cmu.edu/~woden" style="margin-left:0.5em">cs.cmu.edu/~woden</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="woden@cs.cmu.edu" style="margin-left:0.5em">woden@cs.cmu.edu</a>
+<a href="lpyy15@qq.com" style="margin-left:0.5em">lpyy15@qq.com</a>
 </div>
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __太原理工大学 `2013.9 - 2017.9`
 ```
-Pittsburgh, PA
+山西, 太原
 ```
-- Ph.D. in Software Engineering
-
-### __Columbia University__ `2016.9 - 2018.5`
-```
-New York, NY
-```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
-## Publications
-
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+- Opto-Electronics Information Science and Engineering
 
 ## Experience
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
-_Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+### __北京中天联科科技有限公司__  `2018.8 - 2018.10`
+_Software Engineer_<br />
+维护其 __Node.js 视频信息交易系统__，并完成了[半岛电视台](https://www.aljazeera.com), [Dailymotion](https://www.dailymotion.com) 等数个网站的 __视频爬虫__，通过操纵 Headless 浏览器监听有效请求、自动对比差异、生成可重用规律等，实现了较高的自动化程度。
 
-### __Columbia University, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+### __成都京东方光电科技有限公司, B7 柔性 AMOLED 面板产线__ `2017.1 - 2017.5`
+_Array 工艺工程师_<br />
+从事柔性 AMOLED 显示面板集成电路的生产工艺改善、产品良率提升、不良数据分析；期间独立完成了所在科室的 __FDC 异常侦测与分类（统计过程控制）系统__的上线和数据分析建模。
 
 
-## Teaching
+## Tech
 
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+本人有9个月的 Node.js 相关经验，意向后端或爬虫，热爱技术，责任心强，具有较好的英文文档阅读能力，掌握常用数据结构与算法。熟悉 Headless Chrome 爬虫、Express + MongoDB 开发、ES8 async/await 异步、Python、MySQL。
+有过工艺数据分析项目（统计过程控制）建模和数字图像处理的经验，熟悉 Office 等技能。 <br />
 
-
-## Honors & Awards
-
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Nov. 2018 -->
