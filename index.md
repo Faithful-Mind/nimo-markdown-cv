@@ -12,11 +12,11 @@ pdf: true
 
 ## Education
 
-### __太原理工大学__ `2013.9 - 2017.9`
+### __太原理工大学__ `2013 - 2017`
 ```
-物理与光电工程学院
+物理与光电工程学院, 本科学士
 ```
-- 光电信息科学 Opto-Electronics Information Science and Engineering, 本科
+- 光电信息科学与工程 Opto-Electronics Information Science and Engineering, 本科
 
 ## Experience
 
@@ -24,7 +24,7 @@ pdf: true
 _Software Engineer_<br />
 维护其 Node.js 视频信息交易系统，并完成了[半岛电视台](https://www.aljazeera.com), [Dailymotion](https://www.dailymotion.com) 等数个网站的<strong>视频爬虫</strong>，通过操纵 Headless 浏览器监听有效请求、自动对比差异、生成可重用规律等，实现了较高的自动化程度。
 
-### __成都京东方光电科技有限公司, B7 柔性 AMOLED 面板产线__ `2017.1 - 2017.5`
+### __成都京东方光电科技有限公司, B7 柔性 AMOLED 面板产线__ `2017.9 - 2018.8`
 _Array 工艺工程师_<br />
 从事柔性 AMOLED 显示面板集成电路的生产工艺改善、产品良率提升、不良数据分析；期间独立完成了所在科室的 <strong>FDC 异常侦测与分类（统计过程控制）系统</strong>的上线和数据分析建模。
 
