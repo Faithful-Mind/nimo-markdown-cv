@@ -18,7 +18,8 @@ pdf: true
 ```
 物理与光电工程学院, 本科 学士
 ```
-- 光电信息科学与工程 Opto-Electronics Information Science and Engineering
+- 光电信息科学与工程<br />
+  Opto-Electronics Information Science and Engineering
 
 ## Experience
 
