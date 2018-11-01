@@ -20,6 +20,8 @@ pdf: true
 ```
 - 光电信息科学与工程<br />
   Opto-Electronics Information Science and Engineering
+  
+- 大学英语六级证书 CET-6
 
 ## Experience
 
