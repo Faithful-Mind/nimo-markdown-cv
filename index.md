@@ -23,6 +23,9 @@ pdf: true
 
 - 大学英语六级证书（CET-6）、计算机二级证书（Java）
 
+<br />
+
+
 ## Experience
 
 ### __北京中天联科科技有限公司__ `2018.8 - 2018.10`
@@ -33,12 +36,18 @@ _Software Engineer_<br />
 _Array 工艺工程师_<br />
 从事柔性 AMOLED 显示面板集成电路的生产工艺改善，产品良率提升，不良数据分析。期间独立完成了所在科室的 <strong>FDC 异常侦测与分类系统（统计过程控制）</strong>的上线和数据分析建模。获B7 CIM （计算机集成制造）应用大赛前5强
 
+<br />
+
 
 ## Tech
 
-本人有9个月的 Node.js 相关经验，意向后端或 JS 相关，热爱技术，具有较好的英文文档阅读能力，掌握常用数据结构与算法。熟悉 Headless Chrome 爬虫、Express / Koa + MongoDB、JS 异步等开发技术和 Docker 容器技术，了解 React、Vue 等部分前端技术以及 Python、Java、MySQL。
+本人有9个月的 Node.js 相关经验，意向后端或 JS 相关，热爱技术，具有较好的英文文档阅读能力，掌握常用数据结构与算法。
+
+熟悉 Headless Chrome 爬虫、Express / Koa + MongoDB、JS 异步等开发技术和 Docker 容器技术，了解 React、Vue 等部分前端技术以及 Python、Java、MySQL。
 
 有过工艺数据分析项目（统计过程控制）建模和数字图像处理的经验，熟悉 Office 技能。 <br />
+
+<br />
 
 
 ## Projects
