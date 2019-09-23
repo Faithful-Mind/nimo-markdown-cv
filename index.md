@@ -59,7 +59,7 @@ _Array 工艺工程师_<br />
 ### __Node.js Express Mongoose 实现的 RESTful 论坛 API__
 Express 控制路由部分，通过 Mongoose 子文档实现了 Model 中帖子和评论的对应关系，并采用 express-validator 进行输入数据的验证。
 
-### 基于 Google Maps 和图遍历算法的地图路径规划应用
+### __基于 Google Maps 和图遍历算法的地图路径规划应用__
 将地图路口导出为图类数据，采用层序遍历和 Dijkstra 算法，在 JavaFX UI 和 Google Maps API 上实现了路径规划功能。
 
 
