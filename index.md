@@ -14,7 +14,7 @@ pdf: true
 
 ## Education
 
-### __太原理工大学__ `2013.9 - 2017.9`
+### __太原理工大学__ `2013 - 2017`
 ```
 山西，太原（211工程院校）
 ```
@@ -30,11 +30,11 @@ pdf: true
 
 ### __北京中天联科科技有限公司__ `2018.8 - 2018.10`
 _Software Engineer_<br />
-维护其 Node.js 视频信息交易系统，适配其机顶盒端的视频信息源。完成了Al Jazeera半岛电视台、Dailymotion 等网站的<strong>视频爬虫</strong>，通过操纵 Headless 浏览器监听有效请求、自动对比差异、生成可重用规律等，实现了较高的自动化程度。
+维护其 Node.js 视频信息交易系统，适配其机顶盒端的视频信息源。完成了 Al Jazeera 半岛电视台、Dailymotion 等网站的视频爬虫，通过操纵 Headless 浏览器监听有效请求、自动对比差异、生成可重用规律等，实现了较高的自动化程度。
 
 ### __成都京东方光电科技有限公司, B7 柔性 AMOLED 面板产线__ `2017.9 - 2018.8`
 _Array 工艺工程师_<br />
-从事柔性 AMOLED 显示面板集成电路的生产工艺改善，产品良率提升，不良数据分析。期间独立完成了所在科室的 <strong>FDC 异常侦测与分类系统（统计过程控制）</strong>的上线和数据分析建模。获B7 CIM （计算机集成制造）应用大赛前5强
+从事柔性 AMOLED 显示面板集成电路的生产工艺改善，产品良率提升，不良数据分析。期间独立完成了所在科室的 <strong>FDC 异常侦测与分类系统（统计过程控制）</strong>的上线和数据分析建模，获B7 CIM （计算机集成制造）应用大赛前5强。
 
 <br />
 
@@ -43,7 +43,7 @@ _Array 工艺工程师_<br />
 
 本人有9个月的 Node.js 相关经验，意向后端或 JS 相关，热爱技术，具有较好的英文文档阅读能力，掌握常用数据结构与算法。
 
-熟悉 Headless Chrome 爬虫、Express / Koa + MongoDB、JS 异步等开发技术和 Docker 容器技术，了解 React、Vue 等部分前端技术以及 Python、Java、MySQL。
+熟悉 Headless Chrome 爬虫、Express / Koa + MongoDB、TypeScript 等开发技术和 Docker 容器技术，了解 React、Vue 等部分前端技术以及 Python、Java、MySQL。
 
 有过工艺数据分析项目（统计过程控制）建模和数字图像处理的经验，熟悉 Office 技能。 <br />
 
@@ -58,6 +58,9 @@ _Array 工艺工程师_<br />
 
 ### __Node.js Express Mongoose 实现的 RESTful 论坛 API__
 Express 控制路由部分，通过 Mongoose 子文档实现了 Model 中帖子和评论的对应关系，并采用 express-validator 进行输入数据的验证。
+
+### 基于 Google Maps 和图遍历算法的地图路径规划应用
+将地图路口导出为图类数据，采用层序遍历和 Dijkstra 算法，在 JavaFX UI 和 Google Maps API 上实现了路径规划功能。
 
 
 <!-- ### Footer
