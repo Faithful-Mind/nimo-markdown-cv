@@ -34,7 +34,7 @@ _Software Engineer_<br />
 
 ### __成都京东方光电科技有限公司, B7 柔性 AMOLED 面板产线__ `2017.9 - 2018.8`
 _Array 工艺工程师_<br />
-从事柔性 AMOLED 显示面板集成电路的生产工艺改善，产品良率提升，不良数据分析。期间独立完成了所在科室的 <strong>FDC 异常侦测与分类系统（统计过程控制）</strong>的上线和数据分析建模，获B7 CIM （计算机集成制造）应用大赛前5强。
+从事柔性 AMOLED 显示面板集成电路的生产工艺改善，产品良率提升，不良数据分析。期间独立完成了所在科室的 <strong>FDC 异常侦测与分类系统（统计过程控制）</strong>的上线和数据分析建模，获 B7 CIM（计算机集成制造）应用大赛前5强。
 
 <br />
 
@@ -52,15 +52,21 @@ _Array 工艺工程师_<br />
 
 ## Projects
 
-### __Node.js Headless Chrome 视频爬虫__
+### __Node.js Headless Chrome 视频爬虫__ `2018.10`
 利用 puppeteer 库控制 Headless 浏览器，根据视频通用特征实现<b>自动监听有效请求</b>，获取视频播放链接。
 根据监听结果生成相关正则表达式用于提取网站视频 API 的参数，之后不再监听直接通过获得的视频 API 获取播放链接。
 
-### __Node.js Express Mongoose 实现的 RESTful 论坛 API__
+### __Node.js Express Mongoose 实现的 RESTful 论坛 API__ `2018.7`
 Express 控制路由部分，通过 Mongoose 子文档实现了 Model 中帖子和评论的对应关系，并采用 express-validator 进行输入数据的验证。
 
-### __基于 Google Maps 和图遍历算法的地图路径规划应用__
+### __基于 Google Maps 和图遍历算法的地图路径规划应用__ `2016.11`
 将地图路口导出为图类数据，采用层序遍历和 Dijkstra 算法，在 JavaFX UI 和 Google Maps API 上实现了路径规划功能。
+
+<br />
+
+
+## Hobbies
+业余关注 Kotlin 语言，爱好骑行、乒乓球等
 
 
 <!-- ### Footer
