@@ -12,6 +12,11 @@ pdf: true
 <a href="mailto:lpyy15@qq.com" style="margin-left:0.5em">lpyy15@qq.com</a>
 </div>
 
+### __期望职位：__ Node.js 工程师
+
+<br />
+
+
 ## Education
 
 ### __太原理工大学__ `2013 - 2017`
@@ -41,9 +46,9 @@ _Array 工艺工程师_<br />
 
 ## Tech
 
-本人有9个月的 Node.js 相关经验，意向后端或 JS 相关，热爱技术，具有较好的英文文档阅读能力，掌握常用数据结构与算法。
+本人有9个月的 Node.js 相关经验，意向后端开发；崇尚技术，注重代码整洁，责任心强，能接受有意义的加班。
 
-熟悉 Headless Chrome 爬虫、Express / Koa + MongoDB、TypeScript 等开发技术和 Docker 容器技术，了解 React、Vue 等部分前端技术以及 Python、Java、MySQL。
+具有较好的英文文档阅读能力，掌握常用数据结构与算法。熟悉 Headless Chrome 爬虫、Express / Koa + MongoDB、TypeScript 等开发技术和 Docker 容器技术，了解 Go、Java、MySQL 以及前端部分 React.js。
 
 有过工艺数据分析项目（统计过程控制）建模和数字图像处理的经验，熟悉 Office 技能。 <br />
 
