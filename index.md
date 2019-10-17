@@ -52,6 +52,8 @@ _Array 工艺工程师_<br />
 
 具有较好的英文文档阅读能力，习惯英文下编写代码文档注释。熟悉 GreenUML 绘制 UML 类图和流程图，会使用 JSDoc 为 JS 代码添加带类型注释。
 
+<br />
+
 后端： 熟悉 Express / Koa 开发技术和 RESTful API 资源定义风格，了解 Egg.js 企业开发框架
 
 数据库： 熟悉 MongoDB 及其 ODM 框架 Mongoose；了解 Redis、MySQL 和 HediSQL 管理工具
@@ -61,6 +63,8 @@ _Array 工艺工程师_<br />
 DevOps： 熟悉 Docker 容器技术和编排 docker-compose.yml；了解一些 k3s （分布式容器编排框架 Kubernetes 的一种嵌入式发行版）；熟悉 Ubuntu/Debian Linux 服务器配置
 
 CS： 熟悉常用数据结构与算法，计算机网络分层架构及各层常见协议，熟练掌握 HTTP 协议
+
+<br />
 
 熟悉 TypeScript，了解 Java和一些 Spring 知识、Python 以及一点点 Go；前端部分了解一些 React.js 和 Taro 小程序框架。
 
