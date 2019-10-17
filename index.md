@@ -48,7 +48,17 @@ _Array 工艺工程师_<br />
 
 本人有9个月的 Node.js 相关经验，意向后端开发；崇尚技术，注重代码整洁，责任心强，能接受有意义的加班。
 
-具有较好的英文文档阅读能力，掌握常用数据结构与算法。熟悉 Headless Chrome 爬虫、Express / Koa + MongoDB、TypeScript 等开发技术和 Docker 容器技术，了解 Go、Java、MySQL 以及前端部分 React.js。
+具有较好的英文文档阅读能力，习惯英文下编写代码文档注释。熟悉 GreenUML 绘制 UML 类图和流程图，会使用 JSDoc 为 JS 代码添加带类型注释。
+
+后端： 熟悉 Express / Koa 开发技术，了解 Egg.js 企业开发框架
+
+数据库： 熟悉 MongoDB 及其 ODM 框架 Mongoose；了解 Redis、 MySQL 和 HediSQL 管理工具
+
+爬虫： 熟悉 Node.js 和 Python 下的 DOM 解析器（Cheerio、lxml），了解 XPath，熟练运用 Chrome 开发者工具寻找需要的数据源；熟悉 Puppeteer 库操控 Headless Chrome 浏览器
+
+运维相关： 熟悉 Docker 容器技术和编排 docker-compose.yml；了解一些 k3s （分布式容器编排框架 Kubernetes 的一种嵌入式发行版）
+
+掌握常用数据结构与算法。熟悉 TypeScript，了解 Java、Python 以及一点点 Go；前端部分了解一些 React.js 和 Taro 小程序框架。
 
 有过工艺数据分析项目（统计过程控制）建模和数字图像处理的经验，熟悉 Office 技能。 <br />
 
