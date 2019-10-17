@@ -58,8 +58,8 @@ _Array 工艺工程师_<br />
 ## Projects
 
 ### __Node.js Headless Chrome 视频爬虫__ `2018.10`
-利用 puppeteer 库控制 Headless 浏览器，根据视频通用特征实现<b>自动监听有效请求</b>，获取视频播放链接。
-根据监听结果生成相关正则表达式用于提取网站视频 API 的参数，之后不再监听直接通过获得的视频 API 获取播放链接。
+利用 puppeteer 库控制 Headless 浏览器，根据视频相关通用特征（视频和HLS的MIME类型）实现<b>自动监听有效请求</b>（分析response事件），获取视频播放链接。
+比对多次监听结果生成相关正则表达式用于提取网站视频 API 的参数，之后不再监听直接获取播放链接
 
 ### __Node.js Express Mongoose 实现的 RESTful 论坛 API__ `2018.7`
 Express 控制路由部分，通过 Mongoose 子文档实现了 Model 中帖子和评论的对应关系，并采用 express-validator 进行输入数据的验证。
