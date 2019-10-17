@@ -10,6 +10,8 @@ pdf: true
 <a href="tel:18223619838" style="margin-left:0.5em">18223619838</a>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="mailto:lpyy15@qq.com" style="margin-left:0.5em">lpyy15@qq.com</a>
+<i class="fi-home" style="margin-left:1em"></i>
+<a href="https://github.com/Faithful-Mind" style="margin-left:0.5em">github.com/Faithful-Mind</a>
 </div>
 
 ### __期望职位：__ Node.js 工程师
@@ -35,7 +37,7 @@ pdf: true
 
 ### __北京中天联科科技有限公司__ `2018.8 - 2018.10`
 _Software Engineer_<br />
-维护其 Node.js 视频信息交易系统，适配其机顶盒端的视频信息源。完成了 Al Jazeera 半岛电视台、Dailymotion 等网站的视频爬虫，通过操纵 Headless 浏览器监听有效请求、自动对比差异、生成可重用规律等，实现了较高的自动化程度。
+维护其 Node.js 视频信息交易系统（Express + Sequelize + apiDoc），为其项目撰写文档（数据库表的定义和相关关系，UML图，关键业务逻辑流程图等）；适配其机顶盒端的视频信息源。完成了 Al Jazeera 半岛电视台、Dailymotion 等网站的视频爬虫，通过操纵 Headless 浏览器监听有效请求、自动对比差异、生成可重用规律等，实现了较高的自动化程度。
 
 ### __成都京东方光电科技有限公司, B7 柔性 AMOLED 面板产线__ `2017.9 - 2018.8`
 _Array 工艺工程师_<br />
@@ -50,15 +52,17 @@ _Array 工艺工程师_<br />
 
 具有较好的英文文档阅读能力，习惯英文下编写代码文档注释。熟悉 GreenUML 绘制 UML 类图和流程图，会使用 JSDoc 为 JS 代码添加带类型注释。
 
-后端： 熟悉 Express / Koa 开发技术，了解 Egg.js 企业开发框架
+后端： 熟悉 Express / Koa 开发技术和 RESTful API 资源定义风格，了解 Egg.js 企业开发框架
 
-数据库： 熟悉 MongoDB 及其 ODM 框架 Mongoose；了解 Redis、 MySQL 和 HediSQL 管理工具
+数据库： 熟悉 MongoDB 及其 ODM 框架 Mongoose；了解 Redis、MySQL 和 HediSQL 管理工具
 
-爬虫： 熟悉 Node.js 和 Python 下的 DOM 解析器（Cheerio、lxml），了解 XPath，熟练运用 Chrome 开发者工具寻找需要的数据源；熟悉 Puppeteer 库操控 Headless Chrome 浏览器
+爬虫： 熟悉 Node.js 和 Python 下的 DOM 解析器（Cheerio、lxml），了解 XPath，熟练运用 Chrome 开发者工具分析数据；熟悉 Puppeteer 库操控 Headless Chrome 浏览器
 
-运维相关： 熟悉 Docker 容器技术和编排 docker-compose.yml；了解一些 k3s （分布式容器编排框架 Kubernetes 的一种嵌入式发行版）
+DevOps： 熟悉 Docker 容器技术和编排 docker-compose.yml；了解一些 k3s （分布式容器编排框架 Kubernetes 的一种嵌入式发行版）；熟悉 Ubuntu/Debian Linux 服务器配置
 
-掌握常用数据结构与算法。熟悉 TypeScript，了解 Java、Python 以及一点点 Go；前端部分了解一些 React.js 和 Taro 小程序框架。
+CS： 熟悉常用数据结构与算法，计算机网络分层架构及各层常见协议，熟练掌握 HTTP 协议
+
+熟悉 TypeScript，了解 Java和一些 Spring 知识、Python 以及一点点 Go；前端部分了解一些 React.js 和 Taro 小程序框架。
 
 有过工艺数据分析项目（统计过程控制）建模和数字图像处理的经验，熟悉 Office 技能。 <br />
 
