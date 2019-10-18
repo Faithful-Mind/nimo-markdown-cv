@@ -28,7 +28,7 @@ pdf: true
 - 光电信息科学与工程，理学学士
   B.S. in Opto-Electronics Information Science and Engineering
 
-- 大学英语六级证书（CET-6）、计算机二级证书（Java）
+- 大学英语六级证书 (CET-6)、计算机二级证书 (Java)
 
 <br />
 
@@ -39,11 +39,11 @@ pdf: true
 _Software Engineer_<br />
 维护其 Node.js 视频信息交易系统 (Express + Sequelize + apiDoc)，为其项目撰写设计文档；汇总描述数据库各表的定义和相关关系，对业务模型给出了 UML 类图和关键业务逻辑的流程图等。
 
-适配其机顶盒端的视频信息源；完成了 Al Jazeera 半岛电视台、Dailymotion 等网站的视频爬虫，通过操纵 Headless 浏览器监听有效请求、自动对比差异、生成可重用规律等，实现了较高的自动化程度。
+适配机顶盒端视频信息源；完成了 Al Jazeera 半岛电视台、Dailymotion 等网站的视频爬虫，通过操纵 Headless 浏览器监听有效请求、自动对比差异、生成可重用规律等，实现了较高的自动化程度。
 
 ### __成都京东方光电科技有限公司, B7 柔性 AMOLED 面板产线__ `2017.9 - 2018.8`
 _Array 工艺工程师_<br />
-从事柔性 AMOLED 显示面板集成电路的生产工艺改善，产品良率提升，不良数据分析。期间独立完成了所在科室的 <strong>FDC 异常侦测与分类系统（统计过程控制）</strong>的上线和数据分析建模，获 B7 CIM（计算机集成制造）应用大赛前5强。
+从事柔性 AMOLED 显示面板集成电路的生产工艺改善，产品良率提升，不良数据分析。期间独立完成了所在科室的 <strong>FDC 异常侦测与分类系统（统计过程控制）</strong>的上线和数据分析建模，获 B7 CIM (计算机集成制造)应用大赛前5强。
 
 <br />
 
@@ -62,7 +62,7 @@ _Array 工艺工程师_<br />
 
 爬虫： Cheerio 和 lxml (Python) DOM 解析器，Puppeteer 库操控 Headless Chrome 浏览器，熟练运用 Chrome 开发者工具分析数据；了解 XPath
 
-DevOps： Ubuntu/Debian Linux 配置、Docker 容器技术和编排 docker-compose.yml；了解一点 k3s （Kubernetes 轻量发行版）
+DevOps： Ubuntu/Debian Linux 配置、Docker 容器技术和编排 docker-compose.yml；了解一点 k3s (Kubernetes 轻量发行版)
 
 CS： 常用数据结构与算法，计算机网络分层架构及常见协议，熟练掌握 HTTP 协议
 
