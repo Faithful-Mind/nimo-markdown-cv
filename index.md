@@ -64,7 +64,7 @@ _Array 工艺工程师_<br />
 
 运维： Ubuntu/Debian Linux 配置、Docker 容器技术和编排 docker-compose.yml
 
-CS： 常用数据结构与算法，计算机网络分层架构及常见协议，熟练掌握 HTTP 协议
+CS： 常用数据结构与算法，计算机网络分层架构及常见协议，熟悉 HTTP
 
 <br />
 
