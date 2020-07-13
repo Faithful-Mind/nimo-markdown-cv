@@ -28,6 +28,8 @@ pdf: true
 - 光电信息科学与工程
   B.S. in Opto-Electronics Information Science and Engineering
 
+  课程涵盖：应用光学、数字图像处理、数字电子技术、C语言、数值计算方法、量子力学、电动力学、激光原理、光电显示技术等方面的知识
+
 - 大学英语六级证书 (CET-6)、计算机二级证书 (Java)
 
 <br />
@@ -54,21 +56,21 @@ _Backplane 工艺工程师_<br />
 
 具有较好的英文文档阅读能力，熟悉 GreenUML 绘制 UML 类图和流程图。
 
+熟悉 TypeScript 与 JSDoc，了解 Java (部分Spring)、Python、前端 Vue 和部分 React。
+
 <br />
 
-后端： Express / Koa 开发技术和 RESTful API 资源定义风格，了解 Egg.js 企业级开发框架
+后端： Express、Koa、RESTful；了解 Egg.js
 
-数据库： MongoDB 及其 ODM 框架 Mongoose；了解 Redis、MySQL 和 HediSQL 管理工具
+数据库： MongoDB / Mongoose；了解 Redis、MySQL 和 HediSQL 管理工具
 
 爬虫： Cheerio 和 lxml (Python) DOM 解析器，Puppeteer 库操控 Headless Chrome 浏览器，熟练运用 Chrome 开发者工具分析数据；了解 XPath、Selenium
 
-运维： Ubuntu/Debian Linux 配置、Docker 容器技术和编排 docker-compose.yml；了解 Kubernetes 和 k3s
+运维： Ubuntu/Debian Linux、Docker / docker-compose.yml；了解 Kubernetes 和 k3s
 
 CS： 常用数据结构与算法，计算机网络分层架构及常见协议，熟悉 HTTP
 
 <br />
-
-熟悉 TypeScript 与 JSDoc，了解 Java (部分Spring)、Python、前端部分 React 和 Vue。
 
 熟悉 Office 技能、工艺数据分析（统计过程控制）建模，了解数字图像处理。 <br />
 
@@ -79,7 +81,7 @@ CS： 常用数据结构与算法，计算机网络分层架构及常见协议�
 
 ### __图书库小程序__ `2019.8 - 2019.9`
 类豆瓣图书小程序，实现了二维码扫描(微信小程序API)和搜索两种方式添加图书。
-初期采用 mpvue，后采用 Taro (类React) + TypeScript 重构，并改用 FlexBox 布局。豆瓣 API 不对外开放后，遂采用爬虫获取数据，对照还原了原豆瓣图书 API 的主要功能。
+初期采用 mpvue 和自建 Koa 后端，后采用 Taro (类React) + TypeScript 重构，改用 FlexBox 布局，并使用云开发后台。豆瓣 API 不对外开放后，遂采用爬虫获取数据，对照还原了原豆瓣图书 API 的主要功能。
 
 ### __Node.js Headless Chrome 视频爬虫__ `2018.10`
 利用 puppeteer 库控制 Headless 浏览器，根据视频相关通用特征（视频和HLS的MIME类型）实现<b>自动监听有效请求</b>（分析response事件），获取视频播放链接。
@@ -104,7 +106,8 @@ Express 控制路由部分，通过 Mongoose 子文档实现了 Model 中帖子�
 
 
 ## Hobbies
-爱好骑行、乒乓球等
+喜欢上MOOC网站学习知识，如：Udacity、Coursera、Edx、中国大学MOOC、慕课网。<br />
+体育爱好有骑行、乒乓球等
 
 
 <!-- ### Footer
