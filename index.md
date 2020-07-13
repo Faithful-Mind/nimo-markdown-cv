@@ -56,7 +56,7 @@ _Backplane 工艺工程师_<br />
 
 具有较好的英文文档阅读能力，熟悉 GreenUML 绘制 UML 类图和流程图。
 
-熟悉 TypeScript 与 JSDoc，了解 Java (部分Spring)、Python、前端 Vue 和部分 React。
+熟悉 TypeScript 与 JSDoc，了解 Java (部分Spring)、Python、前端 Vue、Nuxt 和部分 React。
 
 <br />
 
@@ -81,7 +81,7 @@ CS： 常用数据结构与算法，计算机网络分层架构及常见协议�
 
 ### __图书库小程序__ `2019.8 - 2019.9`
 类豆瓣图书小程序，实现了二维码扫描(微信小程序API)和搜索两种方式添加图书。
-初期采用 mpvue 和自建 Koa 后端，后采用 Taro (类React) + TypeScript 重构，改用 FlexBox 布局，并使用云开发后台。豆瓣 API 不对外开放后，遂采用爬虫获取数据，对照还原了原豆瓣图书 API 的主要功能。
+初期采用 mpvue 和自建 Koa 后端，后采用 Taro (类<strong>React</strong>) + <strong>TypeScript</strong> 重构，改用 <strong>FlexBox</strong> 布局，并使用云开发后台。豆瓣 API 不对外开放后，遂采用爬虫获取数据，对照还原了原豆瓣图书 API 的主要功能。
 
 ### __Node.js Headless Chrome 视频爬虫__ `2018.10`
 利用 puppeteer 库控制 Headless 浏览器，根据视频相关通用特征（视频和HLS的MIME类型）实现<b>自动监听有效请求</b>（分析response事件），获取视频播放链接。
@@ -89,7 +89,7 @@ CS： 常用数据结构与算法，计算机网络分层架构及常见协议�
 
 ### __Backplane-Implant FDC__ `2017.11 - 2018.6`
 独立完成了科室的 FDC 异常侦测与分类系统（统计过程控制）的上线和数据分析建模。将设备的工艺参数实时导入 FDC 系统，根据产线工艺特点建立数据监控模型，实现了关键工艺参数超标时自动预警。定期将各批次的工艺数据导出报告。发现产品不良时将批次工艺数据进行相关性分析匹配，找出异常所在点，便于分析改善。<br />
-本项目获2018年度 B7 CIM (计算机集成制造)应用大赛前5强
+本项目获<strong>2018年度 B7 CIM (计算机集成制造)应用大赛</strong>前5强
 
 ### __Node.js Express Mongoose 实现的 RESTful 论坛 API__ `2018.7`
 Express 控制路由部分，通过 Mongoose 子文档实现了 Model 中帖子和评论的对应关系，并采用 express-validator 进行输入数据的验证。
@@ -107,7 +107,7 @@ Express 控制路由部分，通过 Mongoose 子文档实现了 Model 中帖子�
 
 ## Hobbies
 喜欢上MOOC网站学习知识，如：Udacity、Coursera、Edx、中国大学MOOC、慕课网。<br />
-体育爱好有骑行、乒乓球等
+体育爱好骑行、乒乓球等
 
 
 <!-- ### Footer
