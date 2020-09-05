@@ -60,7 +60,7 @@ _Backplane 工艺工程师_<br />
 
 <br />
 
-前端熟悉 React、Angular、ECharts可视化，了解 Hooks 和 Vue/Nuxt (服务器端渲染框架)
+前端： React、Angular、ECharts可视化，了解 Hooks 和 Vue/Nuxt (服务器端渲染框架)
 
 后端： Koa、Express、RESTful；了解 Egg.js
 
