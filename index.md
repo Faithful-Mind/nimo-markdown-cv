@@ -56,17 +56,19 @@ _Backplane 工艺工程师_<br />
 
 具有较好的英文文档阅读能力，熟悉 GreenUML 绘制 UML 类图和流程图。
 
-熟悉 TypeScript 与 JSDoc，了解 Java (部分Spring)、Python、前端 Vue、Nuxt 和部分 React。
+熟悉 TypeScript 与 JSDoc，了解 RxJS、Java (部分Spring)、Python。
 
 <br />
 
-后端： Express、Koa、RESTful；了解 Egg.js
+前端熟悉 React、Angular、ECharts可视化，了解 Hooks 和 Vue/Nuxt (服务器端渲染框架)
 
-数据库： MongoDB / Mongoose；了解 Redis、MySQL 和 HediSQL 管理工具
+后端： Koa、Express、RESTful；了解 Egg.js
+
+数据库： MongoDB / Mongoose；了解 Redis、SQL 和 HediSQL 管理工具
 
 爬虫： Cheerio 和 lxml (Python) DOM 解析器，Puppeteer 库操控 Headless Chrome 浏览器，熟练运用 Chrome 开发者工具分析数据；了解 XPath、Selenium
 
-运维： Ubuntu/Debian Linux、Docker / docker-compose.yml；了解 Kubernetes 和 k3s
+运维： Ubuntu/Debian Linux、Docker / docker-compose.yml；了解 Kubernetes、k3s 和 CI
 
 CS： 常用数据结构与算法，计算机网络分层架构及常见协议，熟悉 HTTP
 
@@ -92,7 +94,7 @@ CS： 常用数据结构与算法，计算机网络分层架构及常见协议�
 本项目获<strong>2018年度 B7 CIM (计算机集成制造)应用大赛</strong>前5强
 
 ### __Node.js Express Mongoose 实现的 RESTful 论坛 API__ `2018.7`
-Express 控制路由部分，通过 Mongoose 子文档实现了 Model 中帖子和评论的对应关系，并采用 express-validator 进行输入数据的验证。
+Express 控制路由部分，通过 Mongoose SubDocuments 实现了 Model 中帖子和评论的对应关系，并采用 express-validator 进行输入数据的验证。
 
 ### __人的行为图像处理算法实验研究__ `2017.4 - 2017.6`
 利用MATLAB介绍数字图像处理中的高斯滤波空域变换、Canny边缘检测算子、Hough变换边缘跟踪等应用效果。<br />
